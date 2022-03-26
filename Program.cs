@@ -36,7 +36,7 @@ namespace modul5_1302204075
             stv9.IncreasePlayCount(9);
 
 
-            stu.AddVideo(stv1);
+            stu.AddVideo(stv6);
 
             stv1.PrintVideoDetails();
 
