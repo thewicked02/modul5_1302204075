@@ -10,7 +10,7 @@ namespace modul5_1302204075
     {
         static void Main(string[] args)
         {
-            //panggil object
+            //memanggil object
             SayaTubeVideo stv = new SayaTubeVideo("Review Film Jigsaw oleh Rodo Idola Nathanael Marbun");
             SayaTubeVideo stv1 = new SayaTubeVideo("Review Film Divergen oleh Rodo Idola Nathanael Marbun");
             SayaTubeVideo stv2 = new SayaTubeVideo("Review Film Alegian oleh Rodo Idola Nathanael Marbun");
@@ -23,7 +23,7 @@ namespace modul5_1302204075
             SayaTubeVideo stv9 = new SayaTubeVideo("Review Film AUUUUU oleh Rodo Idola Nathanael Marbun");
             SayaTubeUser stu = new SayaTubeUser("Rodo Idola Nathanael Marbun");
 
-            //menambahkan playcount dari setiap video
+            //tambah playcount dari setiap video
             stv.IncreasePlayCount(2);
             stv1.IncreasePlayCount(3);
             stv2.IncreasePlayCount(4);
