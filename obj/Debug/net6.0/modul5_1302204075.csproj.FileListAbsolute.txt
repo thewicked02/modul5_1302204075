@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\modul5_1302204075\bin\Debug\net6.0\modul5_1302204075.exe
+C:\Users\Acer\source\repos\modul5_1302204075\bin\Debug\net6.0\modul5_1302204075.deps.json
+C:\Users\Acer\source\repos\modul5_1302204075\bin\Debug\net6.0\modul5_1302204075.runtimeconfig.json
+C:\Users\Acer\source\repos\modul5_1302204075\bin\Debug\net6.0\modul5_1302204075.dll
+C:\Users\Acer\source\repos\modul5_1302204075\bin\Debug\net6.0\modul5_1302204075.pdb
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.AssemblyInfo.cs
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.dll
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\refint\modul5_1302204075.dll
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.pdb
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\modul5_1302204075.genruntimeconfig.cache
+C:\Users\Acer\source\repos\modul5_1302204075\obj\Debug\net6.0\ref\modul5_1302204075.dll
